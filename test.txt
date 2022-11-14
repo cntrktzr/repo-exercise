@@ -1,1 +1,2 @@
 This is my first change in test.txt
+This is my second change in test.txt
